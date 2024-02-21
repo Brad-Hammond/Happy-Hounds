@@ -1,12 +1,32 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto+Slab:wght@100..900&display=swap");
 
+/* Asterisk */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 /* General styles */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: #3a3a3a;
+}
+
+/* Header */
 header {
   background-color: blue;
 }
+
+/* Main Conent */
 main {
   background-color: yellowgreen;
+  flex: 1 0 auto;
 }
+
+/* Footer*/
 footer {
   background-color: purple;
 }
