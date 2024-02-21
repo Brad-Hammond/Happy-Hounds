@@ -42,6 +42,9 @@ h1 {
   list-style-type: none;
   color: lightgray;
 }
+#nav-bar > li {
+  margin-bottom: 1em;
+}
 
 /* Main Conent */
 main {
