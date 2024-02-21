@@ -48,6 +48,17 @@ h1 {
 .active {
   border-bottom: 1px solid lightgray;
 }
+/* Nav bar drop-down toggle*/
+nav {
+  position: absolute;
+  background-color: #8b5a2b;
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+  box-shadow: 0 3px 3px #3a3a3a;
+  display: none;
+}
+
 /* Main Conent */
 main {
   background-color: white;
