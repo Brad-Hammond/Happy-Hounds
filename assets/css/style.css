@@ -36,6 +36,12 @@ h1 {
   letter-spacing: 2px;
   color: white;
 }
+#nav-bar {
+  font-size: 100%;
+  letter-spacing: 3px;
+  list-style-type: none;
+  color: lightgray;
+}
 
 /* Main Conent */
 main {
