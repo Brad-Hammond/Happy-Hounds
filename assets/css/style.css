@@ -45,7 +45,9 @@ h1 {
 #nav-bar > li {
   margin-bottom: 1em;
 }
-
+.active {
+  border-bottom: 1px solid lightgray;
+}
 /* Main Conent */
 main {
   background-color: white;
