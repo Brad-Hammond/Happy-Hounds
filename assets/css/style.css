@@ -102,4 +102,19 @@ footer {
   .nav-toggle-label {
     display: none;
   }
+  #logo {
+    font-size: 280%;
+    line-height: 75px;
+    margin: 0 0.5rem;
+  }
+  /* Main content */
+  main {
+    margin: 79px;
+  }
+}
+/* Large devices (laptops & desktops, 992px +) */
+@media screen and (min-width: 922px) {
+  #nav-bar a:hover {
+    border-bottom: 1px solid lightgrey;
+  }
 }
