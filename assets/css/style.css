@@ -83,3 +83,23 @@ main {
 footer {
   background-color: purple;
 }
+/* Media query: tablets and larger (768px +) */
+@media screen and (min-width: 768px) {
+  /* Header */
+  nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    padding-right: 1rem;
+  }
+  #nav-bar {
+    display: flex;
+  }
+  #nav-bar > li {
+    padding-left: 1rem;
+  }
+  .nav-toggle-label {
+    display: none;
+  }
+}
