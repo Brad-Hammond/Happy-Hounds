@@ -23,7 +23,7 @@ header {
   position: fixed;
   z-index: 99;
   width: 100%;
-  box-shadow: 0 3px 3px #3a3a3a;
+  box-shadow: 0 2px 2px #3a3a3a;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -75,10 +75,16 @@ nav {
 
 /* Main Conent */
 main {
-  background-color: white;
   flex: 1 0 auto;
+  margin-top: 47px;
 }
-
+/* Main-photo styles */
+#main-photo {
+  height: 289px;
+  width: 100vw;
+  background: url(../images/project-1-main-photo.jpg) no-repeat center
+    center/cover;
+}
 /* Footer*/
 footer {
   background-color: #8b5a2b;
@@ -115,18 +121,23 @@ footer {
     display: none;
   }
   #logo {
-    font-size: 280%;
+    font-size: 200%;
     line-height: 75px;
     margin: 0 0.5rem;
   }
   /* Main content */
   main {
-    margin: 79px;
+    margin-top: 79px;
   }
 }
 /* Large devices (laptops & desktops, 992px +) */
 @media screen and (min-width: 922px) {
   #nav-bar a:hover {
     border-bottom: 1px solid lightgrey;
+  }
+}
+@media screen and (min-width: 280px) {
+  #paw-image {
+    display: none;
   }
 }
