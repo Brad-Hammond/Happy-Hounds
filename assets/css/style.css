@@ -147,6 +147,12 @@ footer {
   main {
     margin-top: 79px;
   }
+  /* main-photo */
+  #cover-text {
+    width: 300px;
+    right: 10px;
+    top: 450px;
+  }
 }
 /* Large devices (laptops & desktops, 992px +) */
 @media screen and (min-width: 922px) {
