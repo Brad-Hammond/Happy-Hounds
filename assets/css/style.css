@@ -80,10 +80,10 @@ main {
 }
 /* Main-photo styles */
 #main-photo {
-  height: 289px;
+  height: 400px;
   width: 100vw;
-  background: url(../images/project-1-main-photo.jpg) no-repeat center
-    center/cover;
+  background: url(../images/Optimized-pexels-brett-sayles-1322182.jpg) no-repeat
+    center center/cover;
 }
 /* Footer*/
 footer {
