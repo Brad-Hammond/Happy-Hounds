@@ -18,7 +18,7 @@ body {
 h1 {
   font-family: "Roboto Slab", serif;
   letter-spacing: 2px;
-  color: white;
+  color: #3a3a3a;
 }
 h2,
 h3 {
@@ -29,7 +29,7 @@ h3 {
 
 /* Header */
 header {
-  background-color: #8b5a2b;
+  background-color: #ffffff;
   padding: 0 1rem;
   position: fixed;
   z-index: 99;
@@ -49,7 +49,7 @@ header a {
   font-size: 100%;
   letter-spacing: 3px;
   list-style-type: none;
-  color: lightgray;
+  color: #3a3a3a;
 }
 #nav-bar > li {
   margin-bottom: 1em;
@@ -60,7 +60,7 @@ header a {
 /* Nav-bar styles with drop-down toggle*/
 nav {
   position: absolute;
-  background-color: #8b5a2b;
+  background-color: #ffffff;
   width: 100%;
   left: 0;
   padding: 0 1rem;
