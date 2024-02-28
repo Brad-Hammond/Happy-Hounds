@@ -15,6 +15,17 @@ body {
   color: #3a3a3a;
   font-family: "Nunito", sans-serif;
 }
+h1 {
+  font-family: "Roboto Slab", serif;
+  letter-spacing: 2px;
+  color: white;
+}
+h2,
+h3 {
+  font-family: "Roboto Slab", serif;
+  letter-spacing: 2px;
+  color: white;
+}
 
 /* Header */
 header {
@@ -34,11 +45,6 @@ header a {
   color: inherit;
 }
 
-h1 {
-  font-family: "Roboto Slab", serif;
-  letter-spacing: 2px;
-  color: white;
-}
 #nav-bar {
   font-size: 100%;
   letter-spacing: 3px;
@@ -58,7 +64,7 @@ nav {
   width: 100%;
   left: 0;
   padding: 0 1rem;
-  box-shadow: 0 3px 3px #3a3a3a;
+  box-shadow: 0 2px 2px #3a3a3a;
   display: none;
   top: 100%;
 }
