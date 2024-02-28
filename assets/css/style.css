@@ -86,7 +86,7 @@ main {
 }
 /* Main-photo styles */
 #main-photo {
-  height: 500px;
+  height: 600px;
   width: 100vw;
   background: url(../images/Optimized-pexels-brett-sayles-1322182.jpg) no-repeat
     center center/cover;
@@ -102,6 +102,23 @@ main {
   margin: 0;
   padding: 0;
 }
+/* Services */
+#services {
+  position: relative;
+  height: 750px;
+  width: 100vw;
+  padding: 0 1rem;
+  color: #3a3a3a;
+}
+
+#services p {
+  padding: 0 15px;
+}
+#services hr {
+  border-top: 1px solid #3a3a3a;
+  margin: 5px 0;
+}
+
 /* Footer*/
 footer {
   background-color: #ffffff;
@@ -118,6 +135,26 @@ footer {
   font-size: 160%;
   padding: 5%;
   color: #3a3a3a;
+}
+.offer {
+  position: relative;
+  top: 20px;
+}
+#dog-walking {
+  position: relative;
+  top: 40px;
+}
+#sg-walks {
+  position: relative;
+  top: 55px;
+}
+#pet-trans {
+  position: relative;
+  top: 70px;
+}
+#senior-care {
+  position: relative;
+  top: 85px;
 }
 /* Media query: tablets and larger (768px +) */
 @media screen and (min-width: 768px) {
