@@ -102,6 +102,14 @@ main {
   margin: 0;
   padding: 0;
 }
+/* About */
+#about p {
+  padding: 0 15px;
+}
+#about hr {
+  border-top: 1px solid #3a3a3a;
+  margin: 5px 0;
+}
 /* Services */
 #services {
   position: relative;
