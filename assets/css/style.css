@@ -24,7 +24,7 @@ h2,
 h3 {
   font-family: "Roboto Slab", serif;
   letter-spacing: 2px;
-  color: white;
+  color: #3a3a3a;
 }
 
 /* Header */
@@ -92,11 +92,11 @@ main {
     center center/cover;
 }
 #cover-text {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0.8);
   font-size: 130%;
   position: absolute;
-  top: 375px;
-  right: 5px;
+  top: 400px;
+  right: 0px;
   width: 80%;
   min-height: 100px;
   margin: 0;
