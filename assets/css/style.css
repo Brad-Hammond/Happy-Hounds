@@ -104,7 +104,7 @@ main {
 }
 /* Footer*/
 footer {
-  background-color: #8b5a2b;
+  background-color: #ffffff;
 }
 #social-networks {
   text-align: center;
@@ -116,7 +116,7 @@ footer {
 #social-networks i {
   font-size: 160%;
   padding: 5%;
-  color: white;
+  color: #3a3a3a;
 }
 /* Media query: tablets and larger (768px +) */
 @media screen and (min-width: 768px) {
