@@ -15,18 +15,21 @@ body {
   color: #3a3a3a;
   font-family: "Nunito", sans-serif;
 }
-h1 {
+h1,
+h2,
+h3 {
   font-family: "Roboto Slab", serif;
   letter-spacing: 2px;
-  color: #3a3a3a;
+  color: #023304;
 }
+/*
 h2,
 h3 {
   font-family: "Roboto Slab", serif;
   letter-spacing: 2px;
   color: #3a3a3a;
 }
-
+*/
 /* Header */
 header {
   background-color: #ffffff;
@@ -49,7 +52,7 @@ header a {
   font-size: 100%;
   letter-spacing: 3px;
   list-style-type: none;
-  color: #3a3a3a;
+  color: darkgreen;
 }
 #nav-bar > li {
   margin-bottom: 1em;
@@ -126,6 +129,23 @@ main {
   border-top: 1px solid #3a3a3a;
   margin: 5px 0;
 }
+/* Video section */
+
+#video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+#video-1 {
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+#video h2 {
+  margin-top: -325px;
+}
 
 /* Footer*/
 footer {
@@ -142,7 +162,7 @@ footer {
 #social-networks i {
   font-size: 160%;
   padding: 5%;
-  color: #3a3a3a;
+  color: #023304;
 }
 .offer {
   position: relative;
