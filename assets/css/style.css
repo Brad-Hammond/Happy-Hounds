@@ -109,10 +109,11 @@ main {
 /* Services */
 #services {
   position: relative;
-  height: 750px;
+  height: 400px;
   width: 100vw;
   padding: 0 1rem;
   color: #606c38;
+  margin-bottom: 400px;
 }
 
 #services p {
