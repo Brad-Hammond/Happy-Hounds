@@ -154,8 +154,14 @@ main {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  position: relative;
 }
+#product-container {
+  display: flex;
+}
+#products > h2 {
+  margin-bottom: 20px;
+}
+/* Harness Product */
 #harness {
   padding-bottom: 50px;
 }
@@ -165,6 +171,25 @@ main {
   height: auto;
 }
 #harness a {
+  color: #ffffff;
+  background-color: #283618;
+  border-color: #283618;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+/* Poo-Bag Product */
+
+#poo-bag {
+  padding-bottom: 50px;
+}
+.poo-bag {
+  display: block;
+  width: 200px;
+  height: auto;
+}
+#poo-bag a {
   color: #ffffff;
   background-color: #283618;
   border-color: #283618;
