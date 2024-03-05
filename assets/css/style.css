@@ -157,6 +157,8 @@ main {
 }
 #product-container {
   display: flex;
+  justify-content: center;
+  gap: 50px;
 }
 #products > h2 {
   margin-bottom: 20px;
