@@ -12,7 +12,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  color: #3a3a3a;
+  color: #606c38;
   font-family: "Nunito", sans-serif;
 }
 h1,
@@ -22,14 +22,7 @@ h3 {
   letter-spacing: 2px;
   color: #023304;
 }
-/*
-h2,
-h3 {
-  font-family: "Roboto Slab", serif;
-  letter-spacing: 2px;
-  color: #3a3a3a;
-}
-*/
+
 /* Header */
 header {
   background-color: #ffffff;
@@ -119,7 +112,7 @@ main {
   height: 750px;
   width: 100vw;
   padding: 0 1rem;
-  color: #3a3a3a;
+  color: #606c38;
 }
 
 #services p {
