@@ -260,6 +260,14 @@ footer {
   position: relative;
   top: 85px;
 }
+/* Media query: large or landscape phones (576px +)*/
+@media screen and (min-width: 576px) {
+  #photos {
+    column-count: 2;
+    column-gap: 0;
+  }
+}
+
 /* Media query: tablets and larger (768px +) */
 @media screen and (min-width: 768px) {
   /* Header */
@@ -294,11 +302,19 @@ footer {
     right: 10px;
     top: 450px;
   }
+  /* Gallery */
+  #photos {
+    column-count: 3;
+  }
 }
 /* Large devices (laptops & desktops, 992px +) */
 @media screen and (min-width: 922px) {
   #nav-bar a:hover {
     border-bottom: 1px solid lightgrey;
+  }
+  /* Gallery */
+  #photos {
+    column-count: 4;
   }
 }
 /*
