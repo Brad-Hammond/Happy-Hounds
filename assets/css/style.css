@@ -85,6 +85,7 @@ nav {
 main {
   flex: 1 0 auto;
   margin-top: 47px;
+  background-color: #faf9f6;
 }
 /* Main-photo styles */
 #main-photo {
