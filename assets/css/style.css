@@ -556,7 +556,7 @@ footer {
   #cover-text {
     width: 300px;
     right: 10px;
-    top: 450px;
+    top: 550px;
   }
   #services {
     height: 375px;
@@ -664,7 +664,7 @@ footer {
 @media screen and (min-width: 2560px) {
   /* Cover-Text */
   #cover-text {
-    top: 425px;
+    top: 450px;
   }
   /* Form */
   #contact {
@@ -699,6 +699,6 @@ footer {
   }
   /* Services */
   body {
-    font-size: 150%;
+    font-size: 125%;
   }
 }
