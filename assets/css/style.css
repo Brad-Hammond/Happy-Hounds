@@ -166,7 +166,6 @@ main {
   display: flex;
   justify-content: center;
   gap: 50px;
-  /* margin-top: 4rem; */
   margin-bottom: 10rem;
 }
 #products > h2 {
@@ -481,7 +480,7 @@ footer {
   top: 85px;
 }
 /* Media Query: small phone + (280px+) */
-@media screen and (min-width: 280px) {
+@media screen and (min-width: 280px) and (max-width: 575px) {
   #cover-text {
     top: 475px;
   }
@@ -502,12 +501,14 @@ footer {
 }
 /* Media Query: normal size phone (320px +) */
 @media screen and (min-width: 320px) {
+  /* Services */
   #services {
     height: 580px;
   }
 }
 /* Media Query: medium size phone + (375px +) */
 @media screen and (min-width: 375px) {
+  /* Services */
   #services {
     height: 515px;
   }
@@ -515,6 +516,7 @@ footer {
 
 /* Media query: large or landscape phones (576px +)*/
 @media screen and (min-width: 576px) {
+  /* Gallery */
   #photos {
     column-count: 2;
     column-gap: 0;
@@ -586,7 +588,7 @@ footer {
   #contact-form {
     max-width: 400px;
     position: absolute;
-    left: 200px;
+    left: 190px;
     top: 50px;
   }
   .text-input:hover {
@@ -597,12 +599,50 @@ footer {
     color: #454b1b;
   }
 }
-/* Large devices (laptops & desktops, 992px +) */
-@media screen and (min-width: 922px) {
+
+/* Large devices (laptops & desktops, 892px +) */
+@media screen and (min-width: 822px) {
   #nav-bar a:hover {
     border-bottom: 1px solid lightgrey;
   }
+  #contact-form {
+    left: 35%;
+  }
   #cover-text {
     top: 550px;
+  }
+}
+/* Large devices 4k (laptops & desktops, 2560px +) */
+@media screen and (min-width: 2560px) {
+  /* Form */
+  #contact {
+    background-position: center;
+    position: relative;
+  }
+  #contact-form {
+    max-width: 650px;
+    position: absolute;
+    left: 950px;
+    top: 50px;
+  }
+  .text-input:hover {
+    border-color: #023304;
+  }
+  .join-button:hover {
+    background-color: #fafafa;
+    color: #454b1b;
+  }
+  #contact-form > h2 {
+    font-size: 40px;
+  }
+  #contact-form > label {
+    font-size: 25px;
+  }
+  .join-button {
+    font-size: 25px;
+  }
+  input[type="text" i] {
+    padding-block: 2px;
+    padding-inline: 4px;
   }
 }
