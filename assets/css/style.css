@@ -662,6 +662,10 @@ footer {
 }
 /* Large devices 4k (laptops & desktops, 2560px +) */
 @media screen and (min-width: 2560px) {
+  /* Cover-Text */
+  #cover-text {
+    top: 425px;
+  }
   /* Form */
   #contact {
     background-position: center;
@@ -692,5 +696,9 @@ footer {
   input[type="text" i] {
     padding-block: 2px;
     padding-inline: 4px;
+  }
+  /* Services */
+  body {
+    font-size: 150%;
   }
 }
