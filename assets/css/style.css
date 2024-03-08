@@ -459,6 +459,9 @@ footer {
   #services {
     height: 550px;
   }
+  #cover-text {
+    top: 525px;
+  }
 }
 
 /* Media query: large or landscape phones (576px +)*/
