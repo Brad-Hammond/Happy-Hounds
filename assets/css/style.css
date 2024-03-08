@@ -447,7 +447,7 @@ footer {
     height: 150px;
   }
   #services {
-    height: 700px;
+    height: 650px;
   }
 }
 
@@ -503,6 +503,8 @@ footer {
 @media screen and (min-width: 922px) {
   #nav-bar a:hover {
     border-bottom: 1px solid lightgrey;
+  }
+  #cover-text {
   }
   /* Gallery */
   #photos {
