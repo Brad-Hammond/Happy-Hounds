@@ -433,6 +433,24 @@ footer {
   position: relative;
   top: 85px;
 }
+/* Media Query: small phone + (280px+) */
+@media screen and (min-width: 280px) and (max-width: 575px) {
+  #cover-text {
+    top: 480px;
+  }
+  #product-container {
+    display: flex;
+    flex-direction: column;
+  }
+  iframe {
+    width: 285px;
+    height: 150px;
+  }
+  #services {
+    height: 700px;
+  }
+}
+
 /* Media query: large or landscape phones (576px +)*/
 @media screen and (min-width: 576px) {
   #photos {
@@ -506,10 +524,3 @@ footer {
     object-fit: cover;
   }
 }
-/*
-@media screen and (min-width: 280px) {
-  #paw-image {
-    display: none;
-  }
-}
-*/
