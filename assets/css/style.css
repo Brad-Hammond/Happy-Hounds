@@ -105,6 +105,7 @@ main {
   min-height: 100px;
   margin: 0;
   padding: 0;
+  border-radius: 8px;
 }
 /* About */
 #about h2 {
@@ -126,16 +127,12 @@ main {
   color: #606c38;
   margin-bottom: 400px;
 }
-#services p {
-  padding: 0;
-}
+
 #services hr {
   border-top: 1px solid #3a3a3a;
   margin: 5px 0;
 }
-
 /* Video section */
-
 #video {
   display: flex;
   flex-direction: column;
@@ -659,6 +656,15 @@ footer {
   #services-1 > div {
     align-self: flex-end;
   }
+  #services {
+    padding: 0 5rem;
+  }
+  #about h2 {
+    padding: 0 5rem;
+  }
+  #about p {
+    padding: 0 5rem;
+  }
 }
 /* Large devices 4k (laptops & desktops, 2560px +) */
 @media screen and (min-width: 2560px) {
@@ -700,5 +706,15 @@ footer {
   /* Services */
   body {
     font-size: 125%;
+  }
+  #services {
+    padding: 0 10rem;
+  }
+  /* About */
+  #about h2 {
+    padding: 0 10rem;
+  }
+  #about p {
+    padding: 0 10rem;
   }
 }
