@@ -108,6 +108,9 @@ main {
   border-radius: 8px;
 }
 /* About */
+#about {
+  margin-bottom: 7.5px;
+}
 #about h2 {
   padding: 0 1rem;
 }
@@ -125,12 +128,26 @@ main {
   width: 100vw;
   padding: 0 1rem;
   color: #606c38;
-  margin-bottom: 400px;
+  margin-bottom: 415px;
 }
-
+.offer {
+  margin-bottom: 10px;
+}
 #services hr {
   border-top: 1px solid #3a3a3a;
   margin: 5px 0;
+}
+#dog-walking {
+  margin-bottom: 10px;
+}
+#sg-walks {
+  margin-bottom: 10px;
+}
+#pet-trans {
+  margin-bottom: 10px;
+}
+#senior-care {
+  margin-bottom: 10px;
 }
 /* Video section */
 #video {
