@@ -481,7 +481,7 @@ footer {
   top: 85px;
 }
 /* Media Query: small phone + (280px+) */
-@media screen and (min-width: 280px) and (max-width: 575px) {
+@media screen and (min-width: 280px) {
   #cover-text {
     top: 475px;
   }
@@ -494,13 +494,22 @@ footer {
     height: 150px;
   }
   #services {
-    height: 550px;
-  }
-  #cover-text {
-    top: 525px;
+    height: 650px;
   }
   #contact-form {
     left: 20px;
+  }
+}
+/* Media Query: normal size phone (320px +) */
+@media screen and (min-width: 320px) {
+  #services {
+    height: 580px;
+  }
+}
+/* Media Query: medium size phone + (375px +) */
+@media screen and (min-width: 375px) {
+  #services {
+    height: 515px;
   }
 }
 
@@ -546,6 +555,9 @@ footer {
     width: 300px;
     right: 10px;
     top: 450px;
+  }
+  #services {
+    height: 375px;
   }
   /* Gallery */
   #photos {
