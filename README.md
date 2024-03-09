@@ -132,3 +132,11 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 - The page has an animated background which uses the same color themse as the rest of the website.<br>
 
 ![Contact Page](assets/readmeimages/Contact-Page.jpg)
+
+## Recources Used
+
+- The code used to create this website was primarily HTML and CSS. Jave Script was used the the logo images.
+- For images, I used [Pexels](https://www.pexels.com/).
+- For optimizing the images, I used [Image Optimizer](http://www.imageoptimizer.net/Pages/Home.aspx).
+- For the icons, I used [Font Awesome](https://fontawesome.com/).
+- For the fonts, I used [Google Fonts](https://fonts.google.com/).
