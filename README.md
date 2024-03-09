@@ -140,3 +140,7 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 - For optimizing the images, I used [Image Optimizer](http://www.imageoptimizer.net/Pages/Home.aspx).
 - For the icons, I used [Font Awesome](https://fontawesome.com/).
 - For the fonts, I used [Google Fonts](https://fonts.google.com/).
+
+## Testing
+
+As well as using both W3C Markup Validator and W3C Validator Services to ensure there were no errors in both my HTML and CSS code, I also used chrome dev tools throughout the development process. This proved very useful when trying to debug styling issues and also find any issues with different viewports such as mobile.
