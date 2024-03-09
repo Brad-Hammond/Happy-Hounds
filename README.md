@@ -109,3 +109,26 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 ![Homepage](assets/readmeimages/Homepage-Feature.jpg)
 ![Homepage-2](assets/readmeimages/Homepage-feature-2.jpg)
 ![Homepage-3](assets/readmeimages/Homepage-Features-3.jpg)
+![Homepage-4](assets/readmeimages/Homepage-Feature-4.jpg)
+
+- The nav bar highlits which page you are on and which page you hover over.
+- The services section has media queries so that on smaller screens the image of the dog does not appear.
+- The youtube videos are fully controllable.
+- The links to the products open in a new tab.
+- The social media links open in a new tab and show when you are hovering over them.
+
+### Gallery
+
+- The gallery page has a total of 16 images on display.
+- The images are shown in sets of 4.
+- The background is a color gradient of the same color themse used throughout the webpage.
+- All images have accurate alt text.<br>
+
+![Gallery Page](assets/readmeimages/Gallery-Page.jpg)
+
+### Contact Page
+
+- The contact page has a form section which includes a name and email fields as well as a submit button.
+- The page has an animated background which uses the same color themse as the rest of the website.<br>
+
+![Contact Page](assets/readmeimages/Contact-Page.jpg)
