@@ -129,7 +129,7 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 ### Contact Page
 
 - The contact page has a form section which includes a name and email fields as well as a submit button.
-- The page has an animated background which uses the same color themse as the rest of the website.<br>
+- The page has an animated background which uses the same color theme as the rest of the website.<br>
 
 ![Contact Page](assets/readmeimages/Contact-Page.jpg)
 
