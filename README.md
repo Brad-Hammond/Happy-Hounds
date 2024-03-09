@@ -95,3 +95,17 @@ This is my gallery page mock-up on desktop, in the final product I opted for a d
 This is my contact page mock-up on desktop, this was a good reference but I opted for an animated background and a more circular border on the form section.<br>
 
 ![Desktop Contact Page](assets/readmeimages/Contact-Desktop.jpg)
+
+## Features
+
+### Homepage
+
+- The homepage shows a hero image of a dog with the company name at the bottom right.
+- It has an about us section which clearly explains the purpose of the site.
+- It has a services section which shows and explains the services on offer.
+- It has 2 useful vidoes which explain the importance of dog walking.
+- It has 3 recommended products to use when dog walking.<br>
+
+![Homepage](assets/readmeimages/Homepage-Feature.jpg)
+![Homepage-2](assets/readmeimages/Homepage-feature-2.jpg)
+![Homepage-3](assets/readmeimages/Homepage-Features-3.jpg)
