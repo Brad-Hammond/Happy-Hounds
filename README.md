@@ -16,7 +16,7 @@ Happy Hounds is a website dedicated to dog walking. It offers users a simple pro
 
     1. As a first time user, I want to have access to a website which conveys its purpose quickly and is quick and easy to naviagte through.
 
-    - I know this I am done when i enter the website and can see its purpose and navigate with ease.
+    - I know I am done when i enter the website and can see its purpose and navigate with ease.
 
     2. As a first time user, I want to be able to learn about the services offered such as types of walks, the times of walks and other services offered if applicable.
 
