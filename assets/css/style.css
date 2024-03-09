@@ -163,6 +163,10 @@ main {
   margin-top: 50px;
   border-radius: 8px;
   overflow: hidden;
+  border: none;
+}
+#video-1 iframe {
+  border: none;
 }
 #video h2 {
   margin-top: -325px;
