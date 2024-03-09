@@ -151,3 +151,14 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 - Homepage: No errors were returned when passing through the official W3C validator
   [https://validator.w3.org/nu/?doc=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2Findex.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2Findex.html)
+
+- Gallery Page: No errors were returned when passing through the official W3C validator
+  [https://validator.w3.org/nu/?doc=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2Fgallery.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2Fgallery.html)
+
+- Contact Page: No errors were returned when passing through the official W3C validator
+  [https://validator.w3.org/nu/?doc=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2Fcontact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2Fcontact.html)
+
+#### CSS
+
+- No errors were found when passing through the official Jigsaw validator
+  [http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2F&usermedium=all&vextwarning=&warning=1](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2F&usermedium=all&vextwarning=&warning=1)
