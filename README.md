@@ -144,3 +144,10 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 ## Testing
 
 As well as using both W3C Markup Validator and W3C Validator Services to ensure there were no errors in both my HTML and CSS code, I also used chrome dev tools throughout the development process. This proved very useful when trying to debug styling issues and also find any issues with different viewports such as mobile.
+
+### Validator Testing
+
+#### HTML
+
+- Homepage: No errors were returned when passing through the official W3C validator
+  [https://validator.w3.org/nu/?doc=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2Findex.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2Findex.html)
