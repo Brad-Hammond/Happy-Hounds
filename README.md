@@ -133,6 +133,12 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 
 ![Contact Page](assets/readmeimages/Contact-Page.jpg)
 
+## Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
 ## Recources Used
 
 - The code used to create this website was primarily HTML and CSS. Jave Script was used the the logo images.
