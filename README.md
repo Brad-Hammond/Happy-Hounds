@@ -51,3 +51,27 @@ Happy Hounds is a website dedicated to dog walking. It offers users a simple pro
     3. As a returning user, I want to be able to see the updated recommended products.
 
     - I know I am done when I view / or purchase the updated recommended products.
+
+## Wireframes
+
+The images below are of the wireframes I made to mock up how I wanted my website to look. I did 2 lots of mock ups, one for desktop and one for mobile. To complete my mock ups I used [WireFrame.cc](https://wireframe.cc/pro/).
+
+### Mobile
+
+#### Home Page
+
+This is my homepage mock-up on mobile, this stayed true to the final product with a few styling changes.<br>
+
+![Mobile Homepage](assets/readmeimages/Home-Mobile.jpg)
+
+#### Gallery
+
+This is my gallery page mock-up on mobile, this stayed true to the final product.<br>
+
+![Mobile Gallery Page](assets/readmeimages/Gallery-Mobile.jpg)
+
+#### Contact
+
+This is my contact page mock-up on mobile, this was a good reference but I opted for an animated background and a more circular border on the form section.<br>
+
+![Mobile Contact Page](assets/readmeimages/Contact-Mobile.jpg)
