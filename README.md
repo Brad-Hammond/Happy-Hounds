@@ -58,7 +58,7 @@ The images below are of the wireframes I made to mock up how I wanted my website
 
 ### Mobile
 
-#### Home Page
+#### Homepage
 
 This is my homepage mock-up on mobile, this stayed true to the final product with a few styling changes.<br>
 
@@ -75,3 +75,23 @@ This is my gallery page mock-up on mobile, this stayed true to the final product
 This is my contact page mock-up on mobile, this was a good reference but I opted for an animated background and a more circular border on the form section.<br>
 
 ![Mobile Contact Page](assets/readmeimages/Contact-Mobile.jpg)
+
+### Desktop
+
+#### Homepage
+
+This is my homepage mock-up on desktop, this stayed true to the final product with a few styling changes such as more circular borders.<br>
+
+![Desktop Homepage](assets/readmeimages/Home-Desktop.jpg)
+
+#### Gallery
+
+This is my gallery page mock-up on desktop, in the final product I opted for a different layout of the images and inlcuded a color gradient background.<br>
+
+![Desktop Gallery Page](assets/readmeimages/Gallery-Desktop.jpg)
+
+#### Contact
+
+This is my contact page mock-up on desktop, this was a good reference but I opted for an animated background and a more circular border on the form section.<br>
+
+![Desktop Contact Page](assets/readmeimages/Contact-Desktop.jpg)
