@@ -4,6 +4,8 @@
 
 ### By Bradley Hammond
 
+### [View Live Project Here](https://brad-hammond.github.io/Happy-Hounds/)
+
 ![Website Designs](assets/readmeimages/DeviceMockUp-2.0.jpg)
 
 ## About Happy Hounds
@@ -54,7 +56,7 @@ Happy Hounds is a website dedicated to dog walking. It offers users a simple pro
 
 ## Wireframes
 
-The images below are of the wireframes I made to mock up how I wanted my website to look. I did 2 lots of mock ups, one for desktop and one for mobile. To complete my mock ups I used [WireFrame.cc](https://wireframe.cc/pro/).
+The images below are of the wireframes I made to mock up how I wanted my website to look. I did 2 lots of mockups, one for desktop and one for mobile. To complete my mockups I used [WireFrame.cc](https://wireframe.cc/pro/).
 
 ### Mobile
 
@@ -86,7 +88,7 @@ This is my homepage mock-up on desktop, this stayed true to the final product wi
 
 #### Gallery
 
-This is my gallery page mock-up on desktop, in the final product I opted for a different layout of the images and inlcuded a color gradient background.<br>
+This is my gallery page mock-up on desktop, in the final product I opted for a different layout of the images and included a color gradient background.<br>
 
 ![Desktop Gallery Page](assets/readmeimages/Gallery-Desktop.jpg)
 
@@ -140,9 +142,9 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-## Recources Used
+## Resources Used
 
-- The code used to create this website was primarily HTML and CSS. Jave Script was used the the logo images.
+- The code used to create this website was primarily HTML and CSS. JavaScript was used the the logo images.
 - For images, I used [Pexels](https://www.pexels.com/).
 - For optimizing the images, I used [Image Optimizer](http://www.imageoptimizer.net/Pages/Home.aspx).
 - For the icons, I used [Font Awesome](https://fontawesome.com/).
@@ -170,7 +172,7 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 - No errors were found when passing through the official Jigsaw validator
   [http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2F&usermedium=all&vextwarning=&warning=1](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2F&usermedium=all&vextwarning=&warning=1)
 
-## Lighhouse Reports
+## Lighthouse Reports
 
 - Lighthouse Report for Desktop:
   ![Lighthouse Desktop Report](assets/readmeimages/Lighthouse-Desktop.jpg)
@@ -186,7 +188,7 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 - I know I am done when i enter the website and can see its purpose and navigate with ease.
 
-**Evidence:** When entering the sight, users are quickly greeted with with the homepage which displayes the main purpose of the site as well as being easy to navigate
+**Evidence:** When entering the site, users are quickly greeted with with the homepage which displayes the main purpose of the site as well as being easy to navigate
 ![Homepage](assets/readmeimages/User-Exerience-1.jpg)
 
 2.  As a first time user, I want to be able to learn about the services offered such as types of walks, the times of walks and other services offered if applicable.
@@ -214,7 +216,7 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 - I know I am done when I have viewed / or purchased the recommended products.
 
-**Evidence:** When a user enters the site, they can scroll down on the hompeage to view all recommended products. All products are linked to their companies websites and open in a new tab
+**Evidence:** When a user enters the site, they can scroll down on the homepage to view all recommended products. All products are linked to their companies websites and open in a new tab
 ![Products](assets/readmeimages/User-Exerience-5-Products.jpg)
 
 6. As a first time user, I want to be able to look at the gallery page and see all the happy dogs being walked.
@@ -242,14 +244,14 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 - I know I am done when I view / or purchase the updated recommended products.
 
-**Evidence:** When entering the site, users can scroll down on the homepage to the recommended products section. Here, they can check to see what the updated prouducts are.
+**Evidence:** When entering the site, users can scroll down on the homepage to the recommended products section. Here, they can check to see what the updated products are.
 
 ## Further Testing
 
-- I manually tested my website on different viewports by using chrome dev tools and using the responsive tool bar to change the view of the website.
+- I manually tested my website on different viewports using Chrome DevTools and using the responsive tool bar to change the view of the website.
 - All links on the webpage have been tested and are working correctly with no errors.
 - All links to other webpages open in a new browser.
-- I used my devices as well as friends devices to help stress test and bug test my website.
+- I used my devices as well as friends devices to help stress-test and bug-test my website.
 
 ### Images of Happy Hounds on different devices and search engines
 
@@ -354,10 +356,10 @@ body {
 
 #### Fork
 
-- On [GitHub.com](https://github.com/?ef_id=_k_CjwKCAiA0bWvBhBjEiwAtEsoW01GluBZUzv5xTH0n3HKkz5KUWYDsQcku6UhfQ5ZBN16SKrnYN6F9BoC1bsQAvD_BwE_k_&OCID=AIDcmm153qff2f_SEM__k_CjwKCAiA0bWvBhBjEiwAtEsoW01GluBZUzv5xTH0n3HKkz5KUWYDsQcku6UhfQ5ZBN16SKrnYN6F9BoC1bsQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiA0bWvBhBjEiwAtEsoW01GluBZUzv5xTH0n3HKkz5KUWYDsQcku6UhfQ5ZBN16SKrnYN6F9BoC1bsQAvD_BwE), in the searc bar, search for [Brad-Hammond/Happy-Hounds](https://github.com/Brad-Hammond/Happy-Hounds) respository.
-- At the top right of the screen, slick fork.
-- Typically, when you create a fork of a repository, it inherits the same name as the original repository. However, you have the option to rename the fork if you want to make it more distinct or identifiable.
-- Add a description to your newly created fork.
+- On [GitHub.com](https://github.com/?ef_id=_k_CjwKCAiA0bWvBhBjEiwAtEsoW01GluBZUzv5xTH0n3HKkz5KUWYDsQcku6UhfQ5ZBN16SKrnYN6F9BoC1bsQAvD_BwE_k_&OCID=AIDcmm153qff2f_SEM__k_CjwKCAiA0bWvBhBjEiwAtEsoW01GluBZUzv5xTH0n3HKkz5KUWYDsQcku6UhfQ5ZBN16SKrnYN6F9BoC1bsQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiA0bWvBhBjEiwAtEsoW01GluBZUzv5xTH0n3HKkz5KUWYDsQcku6UhfQ5ZBN16SKrnYN6F9BoC1bsQAvD_BwE), in the search bar, search for [Brad-Hammond/Happy-Hounds](https://github.com/Brad-Hammond/Happy-Hounds) repository.
+- At the top right of the screen, click fork.
+- Typically, when you fork a repository, it retains the same name as the original repository. However, you have the option to rename the fork for better distinction.
+- Add a description to your newly created fork, if desired.
 - Click create fork.
 
 #### Clone
@@ -370,7 +372,7 @@ body {
 
 ### Local Deployment
 
-- Signup to [Gitpod](https://www.gitpod.io/).
+- Sign up to [Gitpod](https://www.gitpod.io/).
 - Download the Gitpod browser extension.
 - Once on Github, find your way to the [Brad-Hammond/Happy-Hounds](https://github.com/Brad-Hammond/Happy-Hounds) repository.
 - Above the list of files click the button that says 'Gitpod'.
@@ -383,7 +385,7 @@ The website has been launched on GitHub Pages. If you've made a copy of the repo
 - Find your way to the settings tab.
 - Click on the tab called 'pages' on the left hand side.
 - From the source drop down list under the heading Build and deployment, select main.
-- The page will hten provide the link to the website.
+- The page will then provide the link to the website.
 
 ---
 
@@ -393,6 +395,7 @@ The website has been launched on GitHub Pages. If you've made a copy of the repo
 - For all images used, credits to [Pexels](https://www.pexels.com/)
 - For the animated background, credits to [Devdevout](https://devdevout.com/css/css-animated-backgrounds)
 - For both the videos, credits to [Youtube](https://www.youtube.com/)
-- For the harness, credits to [Hunter](https://www.hunterpetuk.co.uk/)
+- For the dog-harness, credits to [Hunter](https://www.hunterpetuk.co.uk/)
 - For the dog-lead, credits to [Flexi-Leads](https://www.flexi-leads.co.uk/)
-- For the dog-bags, credit to [Zooplus](https://www.zooplus.co.uk/)
+- For the dog waste bags, credit to [Zooplus](https://www.zooplus.co.uk/)
+- For helping push me towards my goal, credit to my mentor Daniel
