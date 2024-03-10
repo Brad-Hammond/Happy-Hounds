@@ -243,3 +243,34 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 - I know I am done when I view / or purchase the updated recommended products.
 
 **Evidence:** When entering the site, users can scroll down on the homepage to the recommended products section. Here, they can check to see what the updated prouducts are.
+
+## Bugs
+
+### Fixed Bugs
+
+#### Bug 1
+
+- Both iframe youtube videos were not playing, it popped up with a playback error when I pressed the play button.
+
+#### Original code:
+
+```html
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/VIDEO_ID"
+  frameborder="0"
+  allowfullscreen
+></iframe>
+```
+
+```html
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/a8ze37bhmGw?si=IESpBzkke8z6ZET_"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+></iframe>
+```
