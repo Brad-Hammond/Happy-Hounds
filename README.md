@@ -185,4 +185,11 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 - I know I am done when i enter the website and can see its purpose and navigate with ease.
 
 Evidence: When entering the sight, users are quickly greeted with with the homepage which displayes the main purpose of the site as well as being easy to navigate
-[Homepage](assets/readmeimages/User-Exerience-1.jpg)
+![Homepage](assets/readmeimages/User-Exerience-1.jpg)
+
+2.  As a first time user, I want to be able to learn about the services offered such as types of walks, the times of walks and other services offered if applicable.
+
+- I know I am done when I enter the website and can easily see all information on the services offered.
+
+Evidence: When entering the site, users can see all services offered quickly and easy. If on another page such as gallery, there is a link to the services on the nav bar
+![Services](assets/readmeimages/User-Exerience-2-Services.jpg)
