@@ -345,3 +345,54 @@ body {
   overflow-x: hidden;
 }
 ```
+
+## Deployment
+
+### Github Pages
+
+### Cloning & Forking
+
+#### Fork
+
+- On [GitHub.com](https://github.com/?ef_id=_k_CjwKCAiA0bWvBhBjEiwAtEsoW01GluBZUzv5xTH0n3HKkz5KUWYDsQcku6UhfQ5ZBN16SKrnYN6F9BoC1bsQAvD_BwE_k_&OCID=AIDcmm153qff2f_SEM__k_CjwKCAiA0bWvBhBjEiwAtEsoW01GluBZUzv5xTH0n3HKkz5KUWYDsQcku6UhfQ5ZBN16SKrnYN6F9BoC1bsQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiA0bWvBhBjEiwAtEsoW01GluBZUzv5xTH0n3HKkz5KUWYDsQcku6UhfQ5ZBN16SKrnYN6F9BoC1bsQAvD_BwE), in the searc bar, search for [Brad-Hammond/Happy-Hounds](https://github.com/Brad-Hammond/Happy-Hounds) respository.
+- At the top right of the screen, slick fork.
+- Typically, when you create a fork of a repository, it inherits the same name as the original repository. However, you have the option to rename the fork if you want to make it more distinct or identifiable.
+- Add a description to your newly created fork.
+- Click create fork.
+
+#### Clone
+
+- At the top of the repository above the files, press Code.
+- Copy the URL for the repository.
+- Open the terminal and change the directory to the location where you want the cloned directory.
+- Type git clone, and then paste the URL.
+- Press enter, and you're done!
+
+### Local Deployment
+
+- Signup to [Gitpod](https://www.gitpod.io/).
+- Download the Gitpod browser extension.
+- Once on Github, find your way to the [Brad-Hammond/Happy-Hounds](https://github.com/Brad-Hammond/Happy-Hounds) repository.
+- Above the list of files click the button that says 'Gitpod'.
+
+### Remote Deployment
+
+The website has been launched on GitHub Pages. If you've made a copy of the repository by forking or cloning it, here are the steps to deploy it:
+
+- On GitHub.com, navigate to your repository.
+- Find your way to the settings tab.
+- Click on the tab called 'pages' on the left hand side.
+- From the source drop down list under the heading Build and deployment, select main.
+- The page will hten provide the link to the website.
+
+---
+
+## Credits
+
+- For inspiration and ideas, credits to [CI Love Running](https://code-institute-org.github.io/love-running-2.0/index.html)
+- For all images used, credits to [Pexels](https://www.pexels.com/)
+- For the animated background, credits to [Devdevout](https://devdevout.com/css/css-animated-backgrounds)
+- For both the videos, credits to [Youtube](https://www.youtube.com/)
+- For the harness, credits to [Hunter](https://www.hunterpetuk.co.uk/)
+- For the dog-lead, credits to [Flexi-Leads](https://www.flexi-leads.co.uk/)
+- For the dog-bags, credit to [Zooplus](https://www.zooplus.co.uk/)
