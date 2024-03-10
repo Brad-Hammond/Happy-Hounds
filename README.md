@@ -253,16 +253,17 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 ### Images of Happy Hounds on different devices and search engines
 
-|Safari 17.3.1|Firefox 123.0.1|Chrome 122.0.6261.112|
-|![Safari Homepage](assets/readmeimages/Macbook-Homepage.jpg)|![Firefox Homepage](assets/readmeimages/FireFox-Homepage.jpg)|![Chrome Homepage](assets/readmeimages/Chrome-Homepage.jpg)|
-|![Safari Homepage 2](assets/readmeimages/Macbook-Homepage-2.jpg)|![Firefox Homepage 2](assets/readmeimages/FireFox-Homepage-2.jpg)|![Chrome Homepage 2](assets/readmeimages/Chrome-Homepage-2.jpg)|
-|![Safari Homepage 3](assets/readmeimages/Macbook-Homepage-3.jpg)|![Firefox Homepage 3](assets/readmeimages/FireFox-Homepage-3.jpg)|![Chrome Homepage 3](assets/readmeimages/Chrome-Homepage-3.jpg)|
-|![Safari Homepage 4](assets/readmeimages/Macbook-Homepage-4.jpg)|![Firefox Homepage 4](assets/readmeimages/FireFox-Homepage-4.jpg)|![Chrome Homepage 4](assets/readmeimages/Chrome-Homepage-4.jpg)|
-|![Safari Gallery Page](assets/readmeimages/Macbook-Gallery.jpg)|![Firefox Gallery Page](assets/readmeimages/FireFox-Gallery.jpg)|![Chrome Gallery Page](assets/readmeimages/Chrome-Gallery.jpg)|
-|![Safari Gallery Page 2](assets/readmeimages/Macbook-Gallery-2.jpg)|![Firefox Gallery Page 2](assets/readmeimages/FireFox-Gallery-2.jpg)|![Chrome Gallery Page 2](assets/readmeimages/Chrome-Gallery-2.jpg)|
-|![Safari Gallery Page 3](assets/readmeimages/Macbook-Gallery-3.jpg)|![Firefox Gallery Page 3](assets/readmeimages/FireFox-Gallery-3.jpg)|![Chrome Gallery Page 3](assets/readmeimages/Chrome-Gallery-3.jpg)|
-|![Safari Gallery Page 4](assets/readmeimages/Macbook-Gallery-4.jpg)|![Firefox Gallery Page 4](assets/readmeimages/FireFox-Gallery-4.jpg)|![Chrome Gallery Page 4](assets/readmeimages/Chrome-Gallery-4.jpg)|
-|![Safari Contact Page](assets/readmeimages/Macbook-Contact.jpg)|![Firefox Contact Page](assets/readmeimages/FireFox-Contact.jpg)|![Chrome Contact Page](assets/readmeimages/Chrome-Contact.jpg)|
+| Safari 17.3.1                                                       | Firefox 123.0.1                                                      | Chrome 122.0.6261.112                                              |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ![Safari Homepage](assets/readmeimages/Macbook-Homepage.jpg)        | ![Firefox Homepage](assets/readmeimages/FireFox-Homepage.jpg)        | ![Chrome Homepage](assets/readmeimages/Chrome-Homepage.jpg)        |
+| ![Safari Homepage 2](assets/readmeimages/Macbook-Homepage-2.jpg)    | ![Firefox Homepage 2](assets/readmeimages/FireFox-Homepage-2.jpg)    | ![Chrome Homepage 2](assets/readmeimages/Chrome-Homepage-2.jpg)    |
+| ![Safari Homepage 3](assets/readmeimages/Macbook-Homepage-3.jpg)    | ![Firefox Homepage 3](assets/readmeimages/FireFox-Homepage-3.jpg)    | ![Chrome Homepage 3](assets/readmeimages/Chrome-Homepage-3.jpg)    |
+| ![Safari Homepage 4](assets/readmeimages/Macbook-Homepage-4.jpg)    | ![Firefox Homepage 4](assets/readmeimages/FireFox-Homepage-4.jpg)    | ![Chrome Homepage 4](assets/readmeimages/Chrome-Homepage-4.jpg)    |
+| ![Safari Gallery Page](assets/readmeimages/Macbook-Gallery.jpg)     | ![Firefox Gallery Page](assets/readmeimages/FireFox-Gallery.jpg)     | ![Chrome Gallery Page](assets/readmeimages/Chrome-Gallery.jpg)     |
+| ![Safari Gallery Page 2](assets/readmeimages/Macbook-Gallery-2.jpg) | ![Firefox Gallery Page 2](assets/readmeimages/FireFox-Gallery-2.jpg) | ![Chrome Gallery Page 2](assets/readmeimages/Chrome-Gallery-2.jpg) |
+| ![Safari Gallery Page 3](assets/readmeimages/Macbook-Gallery-3.jpg) | ![Firefox Gallery Page 3](assets/readmeimages/FireFox-Gallery-3.jpg) | ![Chrome Gallery Page 3](assets/readmeimages/Chrome-Gallery-3.jpg) |
+| ![Safari Gallery Page 4](assets/readmeimages/Macbook-Gallery-4.jpg) | ![Firefox Gallery Page 4](assets/readmeimages/FireFox-Gallery-4.jpg) | ![Chrome Gallery Page 4](assets/readmeimages/Chrome-Gallery-4.jpg) |
+| ![Safari Contact Page](assets/readmeimages/Macbook-Contact.jpg)     | ![Firefox Contact Page](assets/readmeimages/FireFox-Contact.jpg)     | ![Chrome Contact Page](assets/readmeimages/Chrome-Contact.jpg)     |
 
 ## Bugs
 
