@@ -299,7 +299,7 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 #### Bug 3
 
-- A container was causing the screen to have a horizontal scroll bar, to fix this i applied the below code:
+- A container was causing the screen to have a horizontal scroll bar, to fix this I applied the below code:
 
 ```css
 html,
