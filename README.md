@@ -250,19 +250,21 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 #### Bug 1
 
-- Both iframe youtube videos were not playing, it popped up with a playback error when I pressed the play button.
+- Both iframe youtube videos were not playing, it popped up with a playback error when I pressed the play button. Please see below code which fixed this error:
 
-#### Original code:
+#### Original Code:
 
 ```html
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/embed/VIDEO_ID"
+  src="https://www.youtube.com/embed/a8ze37bhmGw?si=IESpBzkke8z6ZET_"
   frameborder="0"
   allowfullscreen
 ></iframe>
 ```
+
+#### Correct Code:
 
 ```html
 <iframe
@@ -273,4 +275,36 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen
 ></iframe>
+```
+
+#### Bug 2
+
+- Both youtube videos were not clickable, this was due to the height of the services section. Please see below code which fixed this:
+
+#### Original Code:
+
+```css
+#services {
+  height: 750px;
+}
+```
+
+#### Correct Code:
+
+```css
+#services {
+  height: 400px;
+}
+```
+
+#### Bug 3
+
+- A container was causing the screen to have a horizontal scroll bar, to fix this i applied the below code:
+
+```css
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
 ```
