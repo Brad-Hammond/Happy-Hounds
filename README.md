@@ -186,42 +186,42 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 - I know I am done when i enter the website and can see its purpose and navigate with ease.
 
-**Evidence**: When entering the sight, users are quickly greeted with with the homepage which displayes the main purpose of the site as well as being easy to navigate
+**Evidence:** When entering the sight, users are quickly greeted with with the homepage which displayes the main purpose of the site as well as being easy to navigate
 ![Homepage](assets/readmeimages/User-Exerience-1.jpg)
 
 2.  As a first time user, I want to be able to learn about the services offered such as types of walks, the times of walks and other services offered if applicable.
 
 - I know I am done when I enter the website and can easily see all information on the services offered.
 
-Evidence: When entering the site, users can see all services offered quickly and easy. If on another page such as the gallery page, there is a link to the services on the nav bar
+**Evidence:** When entering the site, users can see all services offered quickly and easy. If on another page such as the gallery page, there is a link to the services on the nav bar
 ![Services](assets/readmeimages/User-Exerience-2-Services.jpg)
 
 3. As a first time user, I want to be able to get in touch with Happy Hounds easily with no hindrance.
 
 - I know I am done when I have entered my contact information and Happy Hounds have contacted me.
 
-Evidence: When entering the site, users can press the nav bar link to the contact section. This brings them to the contact form, which they can fill out with their contact information for someone to get in touch
+**Evidence:** When entering the site, users can press the nav bar link to the contact section. This brings them to the contact form, which they can fill out with their contact information for someone to get in touch
 ![Contact Page](assets/readmeimages/User-Exerience-3-Contact.jpg)
 
 4. As a first time user, I want to be able to see useful videos regarding dog walking to better help my understanding.
 
 - I know I am done once I have viewed the useful videos.
 
-Evidence: When entering the site, users can scroll down on the homepage to view all useful videos. There is a helpful heading which also indicates where the videos are located and both videos are fully controllable
+**Evidence:** When entering the site, users can scroll down on the homepage to view all useful videos. There is a helpful heading which also indicates where the videos are located and both videos are fully controllable
 ![Useful Videos](assets/readmeimages/User-Exerience-4-Videos.jpg)
 
 5. As a first time user, I want to know about any recommended dog walking products which can help me and my furry friend.
 
 - I know I am done when I have viewed / or purchased the recommended products.
 
-Evidence: When a user enters the site, they can scroll down on the hompeage to view all recommended products. All products are linked to their companies websites and open in a new tab
+**Evidence:** When a user enters the site, they can scroll down on the hompeage to view all recommended products. All products are linked to their companies websites and open in a new tab
 ![Products](assets/readmeimages/User-Exerience-5-Products.jpg)
 
 6. As a first time user, I want to be able to look at the gallery page and see all the happy dogs being walked.
 
 - I know I am done when I have viewed the gallery page.
 
-Evidence: When entering the site, users can use the nav bar to navigate to the gallery page. Here, all photos are on display for the users
+**Evidence:** When entering the site, users can use the nav bar to navigate to the gallery page. Here, all photos are on display for the users
 ![Gallery](assets/readmeimages/Gallery-Page.jpg)
 
 ### Returning User Goals
@@ -236,10 +236,10 @@ Evidence: When entering the site, users can use the nav bar to navigate to the g
 
 - I know I am done when I watch the updated useful videos.
 
-**Evidence**: When entering the site, a user can scroll down on the homepage to the useful videos section. Here, they can view all the new videos uploaded.
+**Evidence:** When entering the site, a user can scroll down on the homepage to the useful videos section. Here, they can view all the new videos uploaded.
 
 3. As a returning user, I want to be able to see the updated recommended products.
 
 - I know I am done when I view / or purchase the updated recommended products.
 
-Evidence: When entering the site, users can scroll down on the homepage to the recommended products section. Here, they can check to see what the updated prouducts are.
+**Evidence:** When entering the site, users can scroll down on the homepage to the recommended products section. Here, they can check to see what the updated prouducts are.
