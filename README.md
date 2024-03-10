@@ -112,6 +112,7 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 ![Homepage-4](assets/readmeimages/Homepage-Feature-4.jpg)
 
 - The nav bar highlits which page you are on and which page you hover over.
+- On smaller screens such as mobile, the nav bar has a toggle button.
 - The services section has media queries so that on smaller screens the image of the dog does not appear.
 - The youtube videos are fully controllable.
 - The links to the products open in a new tab.
@@ -168,3 +169,20 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 - No errors were found when passing through the official Jigsaw validator
   [http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2F&usermedium=all&vextwarning=&warning=1](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fbrad-hammond.github.io%2FHappy-Hounds%2F&usermedium=all&vextwarning=&warning=1)
+
+## Lighhouse Reports
+
+- Lighthouse Report for Desktop:
+  ![Lighthouse Desktop Report](assets/readmeimages/Lighthouse-Desktop.jpg)
+
+- Lighthouse report for mobile:
+  ![Lighthouse Mobile Report](assets/readmeimages/Lighthouse-Mobile.jpg)
+
+## User Story Testing
+
+1.  As a first time user, I want to have access to a website which conveys its purpose quickly and is quick and easy to naviagte through.
+
+- I know I am done when i enter the website and can see its purpose and navigate with ease.
+
+Evidence: When entering the sight, users are quickly greeted with with the homepage which displayes the main purpose of the site as well as being easy to navigate
+[Homepage](assets/readmeimages/User-Exerience-1.jpg)
