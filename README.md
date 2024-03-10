@@ -253,6 +253,8 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 ### Images of Happy Hounds on different devices and search engines
 
+#### Desktop
+
 | Safari 17.3.1                                                       | Firefox 123.0.1                                                      | Chrome 122.0.6261.112                                              |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | ![Safari Homepage](assets/readmeimages/Macbook-Homepage.jpg)        | ![Firefox Homepage](assets/readmeimages/FireFox-Homepage.jpg)        | ![Chrome Homepage](assets/readmeimages/Chrome-Homepage.jpg)        |
@@ -264,6 +266,20 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 | ![Safari Gallery Page 3](assets/readmeimages/Macbook-Gallery-3.jpg) | ![Firefox Gallery Page 3](assets/readmeimages/FireFox-Gallery-3.jpg) | ![Chrome Gallery Page 3](assets/readmeimages/Chrome-Gallery-3.jpg) |
 | ![Safari Gallery Page 4](assets/readmeimages/Macbook-Gallery-4.jpg) | ![Firefox Gallery Page 4](assets/readmeimages/FireFox-Gallery-4.jpg) | ![Chrome Gallery Page 4](assets/readmeimages/Chrome-Gallery-4.jpg) |
 | ![Safari Contact Page](assets/readmeimages/Macbook-Contact.jpg)     | ![Firefox Contact Page](assets/readmeimages/FireFox-Contact.jpg)     | ![Chrome Contact Page](assets/readmeimages/Chrome-Contact.jpg)     |
+
+#### Mobile / Tablet
+
+| Iphone - Safari 17.3.1                                          | Ipad - Safari 17.3.1                                        | Android - 14.0                                                    |
+| --------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- |
+| ![Iphone Homepage](assets/readmeimages/Iphone-Homepage.jpg)     | ![Ipad Homepage](assets/readmeimages/Ipad-Homepage.jpg)     | ![Android Homepage](assets/readmeimages/Android-Homepage.jpg)     |
+| ![Iphone Homepage 2](assets/readmeimages/Iphone-Homepage-2.jpg) | ![Ipad Homepage 2](assets/readmeimages/Ipad-Homepage-2.jpg) | ![Android Homepage 2](assets/readmeimages/Android-Homepage-2.jpg) |
+| ![Iphone Homepage 3](assets/readmeimages/Iphone-Homepage-3.jpg) | ![Ipad Homepage 3](assets/readmeimages/Ipad-Homepage-3.jpg) | ![Android Homepage 3](assets/readmeimages/Android-Homepage-3.jpg) |
+| ![Iphone Homepage 4](assets/readmeimages/Iphone-Homepage-4.jpg) | ![Ipad Homepage 4](assets/readmeimages/Ipad-Homepage-4.jpg) | ![Android Homepage 4](assets/readmeimages/Android-Homepage-4.jpg) |
+| ![Iphone Homepage 5](assets/readmeimages/Iphone-Homepage-5.jpg) | ![Ipad Homepage 5](assets/readmeimages/Ipad-Homepage-5.jpg) | ![Android Homepage 5](assets/readmeimages/Android-Homepage-5.jpg) |
+| ![Iphone Gallery](assets/readmeimages/Iphone-Gallery.jpg)       | ![Ipad Gallery](assets/readmeimages/Ipad-Homepage.jpg)      | ![Android Gallery](assets/readmeimages/Android-Gallery.jpg)       |
+| ![Iphone Gallery 2](assets/readmeimages/Iphone-Gallery-2.jpg)   | ![Ipad Gallery 2](assets/readmeimages/Ipad-Homepage-2.jpg)  | ![Android Gallery 2](assets/readmeimages/Android-Gallery-2.jpg)   |
+| ![Iphone Gallery 3](assets/readmeimages/Iphone-Gallery-3.jpg)   | ![Ipad Gallery 3](assets/readmeimages/Ipad-Homepage-3.jpg)  | ![Android Gallery 3](assets/readmeimages/Android-Gallery-3.jpg)   |
+| ![Iphone Contact](assets/readmeimages/Iphone-Contact.jpg)       | ![Ipad Contact](assets/readmeimages/Ipad-Contact.jpg)       | ![Android Contact](assets/readmeimages/Android-Contact.jpg)       |
 
 ## Bugs
 
