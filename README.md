@@ -350,7 +350,7 @@ body {
 
 ### Known Bugs
 
-- On IOS, the space between the Useuful Videos header and the bottom on the services section is smaller but when using Chrome Dev Tools and going to the same width as my phone, I cannot see this issue.
+- On iphone 15, the space between the useuful videos header and the bottom of the services section is smaller but when using Chrome Dev Tools and going to the same width as my phone, I cannot see this issue.
   Please see below picture of this issue:
 
 ![IOS Bug](assets/readmeimages/IOS-Bug.jpg)
