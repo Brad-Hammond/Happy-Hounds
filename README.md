@@ -189,7 +189,7 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 ![Lighthouse Desktop Contact Report](assets/readmeimages/Lighthouse-Desktop-Contact.jpg)
 
-#### Mobile Reports:
+### Mobile Reports:
 
 #### Homepage
 
