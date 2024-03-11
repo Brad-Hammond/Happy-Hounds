@@ -132,7 +132,8 @@ This is my contact page mock up on desktop, this was a good reference but I opte
 ### Contact Page
 
 - The contact page has a form section which includes a name and email field as well as a submit button.
-- The page has an animated background which uses the same color theme as the rest of the website.<br>
+- The page has an animated background which uses the same color theme as the rest of the website.
+- The form section is validated and requires all text fields to be filled out correctly before submission.<br>
 
 ![Contact Page](assets/readmeimages/Contact-Page.jpg)
 
@@ -303,7 +304,7 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/embed/a8ze37bhmGw?si=IESpBzkke8z6ZET_"
+  src="https://www.youtube-nocookie.com/embed/kwrW1AP5iWQ?si=K1HbHMGKFPXlhhC0"
   frameborder="0"
   allowfullscreen
 ></iframe>
@@ -315,9 +316,9 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/embed/a8ze37bhmGw?si=IESpBzkke8z6ZET_"
+  src="https://www.youtube-nocookie.com/embed/kwrW1AP5iWQ?si=K1HbHMGKFPXlhhC0"
   title="YouTube video player"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
   allowfullscreen
 ></iframe>
 ```
