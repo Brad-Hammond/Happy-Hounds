@@ -175,16 +175,32 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 ## Lighthouse Reports
 
-#### Desktop reports:
+### Desktop reports:
+
+#### Homepage
 
 ![Lighthouse Desktop Homepage Report](assets/readmeimages/Lighthouse-Desktop-Homepage.jpg)
+
+#### Gallery Page
+
 ![Lighthouse Desktop Gallery Report](assets/readmeimages/Lighthouse-Desktop-Gallery.jpg)
+
+#### Contact Page
+
 ![Lighthouse Desktop Contact Report](assets/readmeimages/Lighthouse-Desktop-Contact.jpg)
 
 #### Mobile Reports:
 
+#### Homepage
+
 ![Lighthouse Mobile Homepage Report](assets/readmeimages/Lighthouse-Mobile-Homepage.jpg)
+
+#### Gallery Page
+
 ![Lighthouse Mobile Gallery Report](assets/readmeimages/Lighthouse-Mobile-Gallery.jpg)
+
+#### Contact Page
+
 ![Lighthouse Mobile Contact Report](assets/readmeimages/Lighthouse-Mobile-Contact.jpg)
 
 ## User Story Testing
