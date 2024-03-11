@@ -175,10 +175,14 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 ## Lighthouse Reports
 
 - Lighthouse Report for Desktop:
-  ![Lighthouse Desktop Report](assets/readmeimages/Lighthouse-Desktop.jpg)
+  ![Lighthouse Desktop Homepage Report](assets/readmeimages/Lighthouse-Desktop-Homepage.jpg)
+  ![Lighthouse Desktop Gallery Report](assets/readmeimages/Lighthouse-Gallery-Homepage.jpg)
+  ![Lighthouse Desktop Contact Report](assets/readmeimages/Lighthouse-Contact-Homepage.jpg)
 
 - Lighthouse report for mobile:
-  ![Lighthouse Mobile Report](assets/readmeimages/Lighthouse-Mobile.jpg)
+  ![Lighthouse Mobile Homepage Report](assets/readmeimages/Lighthouse-Mobile-Homepage.jpg)
+  ![Lighthouse Mobile Gallery Report](assets/readmeimages/Lighthouse-Mobile-Gallery.jpg)
+  ![Lighthouse Mobile Contact Report](assets/readmeimages/Lighthouse-Mobile-Contact.jpg)
 
 ## User Story Testing
 
@@ -350,13 +354,14 @@ body {
 
 ### Known Bugs
 
-- On iphone 15, the space between the useuful videos header and the bottom of the services section is smaller but when using Chrome Dev Tools and going to the same width as my phone, I cannot see this issue.
-  Please see below picture of this issue:
-
-![IOS Bug](assets/readmeimages/IOS-Bug.jpg)
-
 - At present, there are third party cookies being used which is bringing my best practices lighthouse score down. I do not know the back end code to fix this issue.
+
 - The linked youtube videos have their own code associated with it and is causing depracted feature and form fields with no id or attributes to appear. This is bringing down my user experience lighthouse score.
+
+- On the contact page, an image of norton security pops up on the email text value and I am unable to add an alt value to this which is bringing my SEO and Accessibility lighthouse scores down. Please see below image:
+  ![Norton Security Image](assets/readmeimages/Norton-Image.jpg)
+
+- "Uses deprecated API's" on lighthouse reprot but only API's in use are the google fonts API's.
 
 ## Future Imrpovements
 
