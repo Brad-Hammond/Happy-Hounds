@@ -176,8 +176,8 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 - Lighthouse Report for Desktop:
   ![Lighthouse Desktop Homepage Report](assets/readmeimages/Lighthouse-Desktop-Homepage.jpg)
-  ![Lighthouse Desktop Gallery Report](assets/readmeimages/Lighthouse-Gallery-Homepage.jpg)
-  ![Lighthouse Desktop Contact Report](assets/readmeimages/Lighthouse-Contact-Homepage.jpg)
+  ![Lighthouse Desktop Gallery Report](assets/readmeimages/Lighthouse-Desktop-Gallery.jpg)
+  ![Lighthouse Desktop Contact Report](assets/readmeimages/Lighthouse-Desktop-Contact.jpg)
 
 - Lighthouse report for mobile:
   ![Lighthouse Mobile Homepage Report](assets/readmeimages/Lighthouse-Mobile-Homepage.jpg)
