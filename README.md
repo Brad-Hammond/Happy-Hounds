@@ -380,7 +380,7 @@ body {
 - On the contact page, an image of norton security pops up on the email text value and I am unable to add an alt value to this which is bringing my SEO and Accessibility lighthouse scores down. Please see below image:
   ![Norton Security Image](assets/readmeimages/Norton-Image.jpg)
 
-- "Uses deprecated API's" on lighthouse report but only API's in use are the google fonts API's.
+- "Uses deprecated API's" on lighthouse report but only API's in use are the google fonts API's. This is bringing down my best practices lighthouse score and I am unable to change this.
 
 ## Future Imrpovements
 
