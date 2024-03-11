@@ -382,7 +382,7 @@ body {
 
 - "Uses deprecated API's" on lighthouse report but only API's in use are the google fonts API's. This is bringing down my best practices lighthouse score and I am unable to change this.
 
-## Future Imrpovements
+## Future Improvements
 
 - Instead of the submit button on the form going to a code institute file dump, it would go to a seperate html file. I do not know the language for this yet, but will apply this improvement in the future.
 
