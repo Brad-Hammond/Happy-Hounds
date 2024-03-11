@@ -10,7 +10,7 @@
 
 ## About Happy Hounds
 
-Happy Hounds is a website dedicated to dog walking. It offers users a simple process of viewing what the services on offer as well as being able to easily get in touch to use the services. The site is designed to be functional on all devices.
+Happy Hounds is a website dedicated to dog walking. It offers users a simple process of viewing what the services on offer are as well as being able to easily get in touch to use the services. The site is designed to be functional on all devices.
 
 - ## User Stories
 
@@ -18,7 +18,7 @@ Happy Hounds is a website dedicated to dog walking. It offers users a simple pro
 
     1. As a first time user, I want to have access to a website which conveys its purpose quickly and is quick and easy to naviagte through.
 
-    - I know I am done when i enter the website and can see its purpose and navigate with ease.
+    - I know I am done when I enter the website and can see its purpose and navigate with ease.
 
     2. As a first time user, I want to be able to learn about the services offered such as types of walks, the times of walks and other services offered if applicable.
 
@@ -44,7 +44,7 @@ Happy Hounds is a website dedicated to dog walking. It offers users a simple pro
 
     1. As a returning user, I want to check the images page to see if my dog has been featured.
 
-    - I know I am done when i view the gallery page and can see my dog.
+    - I know I am done when I view the gallery page and can see my dog.
 
     2. As a returning user, I want to check the check the updated useful videos.
 
@@ -56,25 +56,25 @@ Happy Hounds is a website dedicated to dog walking. It offers users a simple pro
 
 ## Wireframes
 
-The images below are of the wireframes I made to mock up how I wanted my website to look. I did 2 lots of mockups, one for desktop and one for mobile. To complete my mockups I used [WireFrame.cc](https://wireframe.cc/pro/).
+The images below are of the wireframes I made to mock up how I wanted my website to look. I did 2 lots of mock ups, one for desktop and one for mobile. To complete my mockups I used [WireFrame.cc](https://wireframe.cc/pro/).
 
 ### Mobile
 
 #### Homepage
 
-This is my homepage mock-up on mobile, this stayed true to the final product with a few styling changes.<br>
+This is my homepage mock up on mobile, this stayed true to the final product with a few styling changes.<br>
 
 ![Mobile Homepage](assets/readmeimages/Home-Mobile.jpg)
 
 #### Gallery
 
-This is my gallery page mock-up on mobile, this stayed true to the final product.<br>
+This is my gallery page mock up on mobile, this stayed true to the final product.<br>
 
 ![Mobile Gallery Page](assets/readmeimages/Gallery-Mobile.jpg)
 
 #### Contact
 
-This is my contact page mock-up on mobile, this was a good reference but I opted for an animated background and a more circular border on the form section.<br>
+This is my contact page mock up on mobile, this was a good reference but I opted for an animated background and a more circular border on the form section.<br>
 
 ![Mobile Contact Page](assets/readmeimages/Contact-Mobile.jpg)
 
@@ -82,19 +82,19 @@ This is my contact page mock-up on mobile, this was a good reference but I opted
 
 #### Homepage
 
-This is my homepage mock-up on desktop, this stayed true to the final product with a few styling changes such as more circular borders.<br>
+This is my homepage mock up on desktop, this stayed true to the final product with a few styling changes such as more circular borders.<br>
 
 ![Desktop Homepage](assets/readmeimages/Home-Desktop.jpg)
 
 #### Gallery
 
-This is my gallery page mock-up on desktop, in the final product I opted for a different layout of the images and included a color gradient background.<br>
+This is my gallery page mock up on desktop, in the final product I opted for a different layout of the images and included a color gradient background.<br>
 
 ![Desktop Gallery Page](assets/readmeimages/Gallery-Desktop.jpg)
 
 #### Contact
 
-This is my contact page mock-up on desktop, this was a good reference but I opted for an animated background and a more circular border on the form section.<br>
+This is my contact page mock up on desktop, this was a good reference but I opted for an animated background and a more circular border on the form section.<br>
 
 ![Desktop Contact Page](assets/readmeimages/Contact-Desktop.jpg)
 
@@ -124,14 +124,14 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 
 - The gallery page has a total of 16 images on display.
 - The images are shown in sets of 4.
-- The background is a color gradient of the same color themse used throughout the webpage.
+- The background is a color gradient of the same color theme used throughout the webpage.
 - All images have accurate alt text.<br>
 
 ![Gallery Page](assets/readmeimages/Gallery-Page.jpg)
 
 ### Contact Page
 
-- The contact page has a form section which includes a name and email fields as well as a submit button.
+- The contact page has a form section which includes a name and email field as well as a submit button.
 - The page has an animated background which uses the same color theme as the rest of the website.<br>
 
 ![Contact Page](assets/readmeimages/Contact-Page.jpg)
@@ -152,7 +152,7 @@ This is my contact page mock-up on desktop, this was a good reference but I opte
 
 ## Testing
 
-As well as using both W3C Markup Validator and W3C Validator Services to ensure there were no errors in both my HTML and CSS code, I also used chrome dev tools throughout the development process. This proved very useful when trying to debug styling issues and also find any issues with different viewports such as mobile.
+As well as using both W3C Markup Validator and W3C Validator Services to ensure there were no errors in both my HTML and CSS code, I also used Chrome DevTools throughout the development process. This proved very useful when trying to debug styling issues and also find any issues with different viewports such as mobile.
 
 ### Validator Testing
 
@@ -186,44 +186,44 @@ As well as using both W3C Markup Validator and W3C Validator Services to ensure 
 
 1.  As a first time user, I want to have access to a website which conveys its purpose quickly and is quick and easy to naviagte through.
 
-- I know I am done when i enter the website and can see its purpose and navigate with ease.
+- I know I am done when I enter the website and can see its purpose and navigate with ease.
 
-**Evidence:** When entering the site, users are quickly greeted with with the homepage which displayes the main purpose of the site as well as being easy to navigate
+**Evidence:** When entering the site, users are quickly greeted with with the homepage which displayes the main purpose of the site as well as being easy to navigate.
 ![Homepage](assets/readmeimages/User-Exerience-1.jpg)
 
 2.  As a first time user, I want to be able to learn about the services offered such as types of walks, the times of walks and other services offered if applicable.
 
 - I know I am done when I enter the website and can easily see all information on the services offered.
 
-**Evidence:** When entering the site, users can see all services offered quickly and easy. If on another page such as the gallery page, there is a link to the services on the nav bar
+**Evidence:** When entering the site, users can see all services offered quickly and easy. If on another page such as the gallery page, there is a link to the services on the nav bar.
 ![Services](assets/readmeimages/User-Exerience-2-Services.jpg)
 
 3. As a first time user, I want to be able to get in touch with Happy Hounds easily with no hindrance.
 
 - I know I am done when I have entered my contact information and Happy Hounds have contacted me.
 
-**Evidence:** When entering the site, users can press the nav bar link to the contact section. This brings them to the contact form, which they can fill out with their contact information for someone to get in touch
+**Evidence:** When entering the site, users can press the nav bar link to the contact section. This brings them to the contact form, which they can fill out with their contact information for someone to get in touch.
 ![Contact Page](assets/readmeimages/User-Exerience-3-Contact.jpg)
 
 4. As a first time user, I want to be able to see useful videos regarding dog walking to better help my understanding.
 
 - I know I am done once I have viewed the useful videos.
 
-**Evidence:** When entering the site, users can scroll down on the homepage to view all useful videos. There is a helpful heading which also indicates where the videos are located and both videos are fully controllable
+**Evidence:** When entering the site, users can scroll down on the homepage to view all useful videos. There is a helpful heading which also indicates where the videos are located and both videos are fully controllable.
 ![Useful Videos](assets/readmeimages/User-Exerience-4-Videos.jpg)
 
 5. As a first time user, I want to know about any recommended dog walking products which can help me and my furry friend.
 
 - I know I am done when I have viewed / or purchased the recommended products.
 
-**Evidence:** When a user enters the site, they can scroll down on the homepage to view all recommended products. All products are linked to their companies websites and open in a new tab
+**Evidence:** When a user enters the site, they can scroll down on the homepage to view all recommended products. All products are linked to their companies websites and open in a new tab.
 ![Products](assets/readmeimages/User-Exerience-5-Products.jpg)
 
 6. As a first time user, I want to be able to look at the gallery page and see all the happy dogs being walked.
 
 - I know I am done when I have viewed the gallery page.
 
-**Evidence:** When entering the site, users can use the nav bar to navigate to the gallery page. Here, all photos are on display for the users
+**Evidence:** When entering the site, users can use the nav bar to navigate to the gallery page. Here, all photos are on display for the users.
 ![Gallery](assets/readmeimages/Gallery-Page.jpg)
 
 ### Returning User Goals
@@ -400,6 +400,9 @@ The website has been launched on GitHub Pages. If you've made a copy of the repo
 
 - For inspiration and ideas, credits to [CI Love Running](https://code-institute-org.github.io/love-running-2.0/index.html)
 - For all images used, credits to [Pexels](https://www.pexels.com/)
+- For optimizing the images, credits to [Image Optimizer](http://www.imageoptimizer.net/Pages/Home.aspx)
+- For the icons used, credits to [Font Awesome](https://fontawesome.com/)
+- For the fonts used, credits to [Google Fonts](https://fonts.google.com/)
 - For the animated background, credits to [Devdevout](https://devdevout.com/css/css-animated-backgrounds)
 - For both the videos, credits to [Youtube](https://www.youtube.com/)
 - For the dog-harness, credits to [Hunter](https://www.hunterpetuk.co.uk/)
