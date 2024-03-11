@@ -485,20 +485,25 @@ footer {
 
 /* Media Query: small phone + (280px+) */
 @media screen and (min-width: 280px) and (max-width: 575px) {
+  /* Main-Photo */
   #cover-text {
     top: 475px;
   }
+  /* Product */
   #product-container {
     display: flex;
     flex-direction: column;
   }
+  /* Videp */
   iframe {
     width: 285px;
     height: 150px;
   }
+  /* Services */
   #services {
     height: 750px;
   }
+  /* Contact */
   #contact-form {
     left: 20px;
   }
@@ -515,6 +520,16 @@ footer {
   /* Services */
   #services {
     height: 600px;
+  }
+  /* Contact Page */
+  #first_name {
+    margin-bottom: 10px;
+  }
+  #last_name {
+    margin-bottom: 10px;
+  }
+  #email_address {
+    margin-bottom: 10px;
   }
 }
 
