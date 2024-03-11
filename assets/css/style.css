@@ -497,7 +497,7 @@ footer {
     height: 150px;
   }
   #services {
-    height: 650px;
+    height: 750px;
   }
   #contact-form {
     left: 20px;
@@ -507,14 +507,14 @@ footer {
 @media screen and (min-width: 320px) {
   /* Services */
   #services {
-    height: 580px;
+    height: 650px;
   }
 }
 /* Media Query: medium size phone + (375px +) */
 @media screen and (min-width: 375px) {
   /* Services */
   #services {
-    height: 515px;
+    height: 600px;
   }
 }
 
