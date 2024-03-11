@@ -355,6 +355,15 @@ body {
 
 ![IOS Bug](assets/readmeimages/IOS-Bug.jpg)
 
+- At present, there are third party cookies being used which is bringing my best practices lighthouse score down. I do not know the back end code to fix this issue.
+- The linked youtube videos have their own code associated with it and is causing depracted feature and form fields with no id or attributes to appear. This is bringing down my user experience lighthouse score.
+
+## Future Imrpovements
+
+- Instead of the submit button on the form going to a code institute file dump, it would go to a seperate html file. I do not know the language for this yet, but will apply this improvement in the future.
+
+- At present, I do not know the code for recieving the emails from the contact section but this will be something I apply later in my coding career.
+
 ## Deployment
 
 ### Github Pages
@@ -399,6 +408,7 @@ The website has been launched on GitHub Pages. If you've made a copy of the repo
 ## Credits
 
 - For inspiration and ideas, credits to [CI Love Running](https://code-institute-org.github.io/love-running-2.0/index.html)
+  - More specifically the media query for 1200px + screens
 - For all images used, credits to [Pexels](https://www.pexels.com/)
 - For optimizing the images, credits to [Image Optimizer](http://www.imageoptimizer.net/Pages/Home.aspx)
 - For the icons used, credits to [Font Awesome](https://fontawesome.com/)
